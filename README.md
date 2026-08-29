@@ -1,15 +1,16 @@
 ### Hi, I’m Derek 👋
 
-I build systems at the intersection of **distributed compute, AI infrastructure, and developer platforms**.
+I build **AI infrastructure, distributed systems, developer platforms, and weird useful software**.
 
-* 🔭 Currently building [@retros](https://github.com/dmikey/retros), retro handheld firmware for R36S-family devices
-* 🛠 Previously worked on **webOS, PayPal, Walmart Electrode, Akash Network, and Bless Network**
-* 🧠 Currently exploring **AI inference, agentic systems, Core ML, zero-knowledge systems, and distributed scaling**
-* 🤝 Interested in collaborating on **AI infrastructure, Web3, Core ML, Stable Diffusion, Cosmos, Rust, and Go**
-* ⚙️ I spend a lot of time around **distributed systems, inference, tensors, sandboxing, and edge compute**
-* 💬 Ask me about **distributed compute networks, generative AI, decentralized infrastructure, or ZK**
-* 📫 Reach me at [therad.ninja/contact](https://therad.ninja/contact)
+* 🚀 Building **Impulse AI** — autonomous ML agents that turn company data + a prompt into trained, deployed, and monitored machine learning models
+* 🧠 Working on **agentic ML systems, automated model research, inference infrastructure, evaluation, and scientific/industrial modeling**
+* 🛠 Building **RadOps** — seamless operations software through [The Rad Ninja](https://therad.ninja)
+* 🎮 Building [@retros](https://github.com/dmikey/retros), custom firmware and tooling for R36S-family retro handhelds
+* ⚡ Experimenting heavily with **Core ML, Stable Diffusion, Apple Silicon optimization, local inference, and edge AI**
+* ⛓️ Exploring **Solana settlement infrastructure, stablecoins, decentralized compute, Cosmos, WASM, and ZK**
+* 🏗 Previously helped build **webOS, PayPal systems, Walmart Electrode, Akash Network, and Bless Network**
+* 🌎 I like problems involving **distributed compute, sandboxing, orchestration, inference, networking, and systems that have to scale**
+* 🤝 Always interested in collaborating on **AI agents, ML infrastructure, Rust, Go, Core ML, distributed systems, and strange hardware**
+* 📫 [therad.ninja/contact](https://therad.ninja/contact)
 
-**Rust • Go • TypeScript • Python • Cosmos SDK • libp2p • WASM • Core ML • ML/AI Infrastructure**
-
-
+**Rust • Go • TypeScript • Python • ML/AI • Agents • Core ML • Cosmos SDK • Solana • libp2p • WASM • Kubernetes**
