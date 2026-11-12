@@ -2,7 +2,7 @@
 
 I build **AI infrastructure, distributed systems, developer platforms, and weird useful software**.
 
-* 🚀 Building **Impulse AI** — autonomous ML agents that turn company data + a prompt into trained, deployed, and monitored machine learning models
+* 🚀 Building **[@Impulse AI](https://impulselabs.ai)** — autonomous ML agents that turn company data + a prompt into trained, deployed, and monitored machine learning models
 * 🧠 Working on **agentic ML systems, automated model research, inference infrastructure, evaluation, and scientific/industrial modeling**
 * 🛠 Building **RadOps** — seamless operations software through [The Rad Ninja](https://therad.ninja)
 * 🎮 Building [@cara](https://github.com/dmikey/cara) the fastest JITless 3DS Emulator, [@dreamcast-port-kit](https://github.com/dmikey/dreamcast-port-kit) port Dreamcast Games to Native WebGL, [@retros](https://github.com/dmikey/retros) - custom firmware and tooling for R36S-family retro handhelds
